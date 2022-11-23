@@ -1,0 +1,1 @@
+print("Hello!This script is for Git training!")
