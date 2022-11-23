@@ -1,1 +1,1 @@
-print("Hello!This script is for Git training!")
+print("Hello!This script is for Git training!This is feature_x script!")
