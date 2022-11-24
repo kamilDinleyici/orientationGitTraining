@@ -1,1 +1,0 @@
-print("Hello!This script is for Git training!This is new git traning script!")
